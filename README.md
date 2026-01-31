@@ -28,7 +28,7 @@ This repository does NOT include:
 ## Related Work
 
 - Preprint (SSRN): [[link]](http://ssrn.com/abstract=6135566)
-- Google Scholar profile: [link] https://scholar.google.com/citations?user=9BJ0LRAAAAAJ&hl=ko
+- Google Scholar profile: [link](https://scholar.google.com/citations?user=9BJ0LRAAAAAJ&hl=ko)
 ## Note
 
 This repository is intended for conceptual clarity and reproducibility signaling.
