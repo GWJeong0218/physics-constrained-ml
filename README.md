@@ -19,16 +19,8 @@ This repository does NOT include:
 - Performance-optimized implementations
 ## Code Overview
 physics-constrained-ml/
-   
-model.py
-   
-loss.py
-   
-Run_LOIO.py
-
-create_sim_images.py
-
-README.md
+├── create_sim_images.py
+└── run_loio.py
 
 ## Related Work
 
