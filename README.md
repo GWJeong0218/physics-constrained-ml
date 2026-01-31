@@ -18,13 +18,12 @@ This repository does NOT include:
 - Hyperparameter configurations
 - Performance-optimized implementations
 ## Code Overview
-
-- `model.py`  
-  Defines the model structure and points where physical constraints
-  are applied.
-
-- `loss.py`  
-  Implements constraint-related loss terms and penalty mechanisms.
+physics-constrained-ml/
+  model.py
+  loss.py
+  Run_LOIO.py
+  create_sim_images.py
+  README.md
 ## Related Work
 
 - Preprint (SSRN): [[link]](http://ssrn.com/abstract=6135566)
